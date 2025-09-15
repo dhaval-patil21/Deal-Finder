@@ -36,6 +36,8 @@ const CompareFloatingWidget = () => {
             <Image
               src={product.image}
               alt={product.title}
+              width={200}
+              height={200}
               className="w-8 h-8 object-cover rounded"
             />
             <span className="text-sm text-slate-600 truncate flex-1">

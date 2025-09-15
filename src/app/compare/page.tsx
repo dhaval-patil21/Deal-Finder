@@ -129,6 +129,8 @@ const ComparePage = () => {
                         <Image
                           src={product.image}
                           alt={product.title}
+                          width={400}
+                          height={400}
                           className="w-32 h-32 object-cover rounded-lg mx-auto mb-4"
                         />
                         <div className={`inline-block px-3 py-1 rounded-full text-xs font-semibold mb-2 ${getPlatformColor(product.platform)}`}>
