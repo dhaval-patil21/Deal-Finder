@@ -1,11 +1,10 @@
 "use client"
-import React from 'react';
 import { ArrowLeft, Star, ExternalLink, ShoppingCart, X, GitCompare } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useCompare } from '../../context/CompareContext';
 import { formatPrice, getPlatformColor } from '../../utils/helpers';
-import Navbar from '@/components/Navbar';
-import Footer from '@/components/Footer';
+import Navbar from '../../components/Navbar';
+import Footer from '../../components/Footer';
 import Image from 'next/image';
 
 const ComparePage = () => {

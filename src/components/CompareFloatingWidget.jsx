@@ -1,5 +1,4 @@
 
-import React from 'react';
 import { GitCompare, X, ArrowRight } from 'lucide-react';
 import { useCompare } from '../context/CompareContext';
 import { useRouter } from 'next/navigation';

@@ -9,8 +9,8 @@ import LoadingSpinner from '../../components/LoadingSpinner';
 import SearchFilters from '../../components/SearchFilters';
 import ProductsGrid from '../../components/ProductGrid';
 import CompareFloatingWidget from '../../components/CompareFloatingWidget';
-import Navbar from '@/components/Navbar';
-import Footer from '@/components/Footer';
+import Navbar from '../../components/Navbar';
+import Footer from '../../components/Footer';
 
 const Product = () => {
   const router = useRouter();
