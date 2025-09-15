@@ -2,7 +2,7 @@
 
 import React, { createContext, useContext, useState } from 'react';
 
-const CompareContext = createContext();
+const CompareContext = createContext(null);
 
 export const useCompare = () => {
   const context = useContext(CompareContext);
