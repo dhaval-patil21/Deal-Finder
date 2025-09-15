@@ -3,6 +3,7 @@ import React from 'react';
 import { GitCompare, X, ArrowRight } from 'lucide-react';
 import { useCompare } from '../context/CompareContext';
 import { useRouter } from 'next/navigation';
+import Image from 'next/image';
 
 const CompareFloatingWidget = () => {
   const { compareList, removeFromCompare, clearCompareList, compareCount, canCompare } = useCompare();
@@ -32,7 +33,7 @@ const CompareFloatingWidget = () => {
       <div className="space-y-2 mb-3 max-h-32 overflow-y-auto">
         {compareList.map((product) => (
           <div key={product.id} className="flex items-center space-x-2 bg-gray-50 rounded p-2">
-            <img
+            <Image
               src={product.image}
               alt={product.title}
               className="w-8 h-8 object-cover rounded"

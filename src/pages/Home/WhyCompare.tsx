@@ -3,62 +3,62 @@
 import Link from 'next/link';
 import { useState } from 'react';
 
-const features = [
-  {
-    id: 1,
-    icon: "💰",
-    title: "Save Money",
-    subtitle: "Find the Best Deals",
-    description: "Compare prices across multiple retailers and save up to 40% on your purchases. Our algorithm finds the lowest prices automatically.",
-    stats: "Average savings: $127 per purchase",
-    color: "from-green-400 to-green-600"
-  },
-  {
-    id: 2,
-    icon: "⚡",
-    title: "Save Time",
-    subtitle: "Instant Comparisons",
-    description: "No more browsing multiple websites. Get comprehensive product comparisons in seconds with real-time price updates.",
-    stats: "Research time reduced by 85%",
-    color: "from-blue-400 to-blue-600"
-  },
-  {
-    id: 3,
-    icon: "🔍",
-    title: "Smart Analysis",
-    subtitle: "AI-Powered Insights",
-    description: "Our advanced AI analyzes product reviews, ratings, and specifications to help you make informed decisions.",
-    stats: "99.2% accuracy in recommendations",
-    color: "from-purple-400 to-purple-600"
-  },
-  {
-    id: 4,
-    icon: "🛡️",
-    title: "Trusted Reviews",
-    subtitle: "Verified Information",
-    description: "Access authentic user reviews and expert ratings from verified buyers. Say goodbye to fake reviews and biased information.",
-    stats: "Over 2M verified reviews",
-    color: "from-orange-400 to-orange-600"
-  },
-  {
-    id: 5,
-    icon: "📊",
-    title: "Price History",
-    subtitle: "Track Price Trends",
-    description: "View detailed price history charts and get alerts when prices drop. Never miss a great deal again.",
-    stats: "Track prices for 30+ days",
-    color: "from-indigo-400 to-indigo-600"
-  },
-  {
-    id: 6,
-    icon: "🎯",
-    title: "Personalized",
-    subtitle: "Tailored Recommendations",
-    description: "Get product suggestions based on your preferences, budget, and shopping history. Find exactly what you need.",
-    stats: "95% user satisfaction rate",
-    color: "from-pink-400 to-pink-600"
-  }
-];
+// const features = [
+//   {
+//     id: 1,
+//     icon: "💰",
+//     title: "Save Money",
+//     subtitle: "Find the Best Deals",
+//     description: "Compare prices across multiple retailers and save up to 40% on your purchases. Our algorithm finds the lowest prices automatically.",
+//     stats: "Average savings: $127 per purchase",
+//     color: "from-green-400 to-green-600"
+//   },
+//   {
+//     id: 2,
+//     icon: "⚡",
+//     title: "Save Time",
+//     subtitle: "Instant Comparisons",
+//     description: "No more browsing multiple websites. Get comprehensive product comparisons in seconds with real-time price updates.",
+//     stats: "Research time reduced by 85%",
+//     color: "from-blue-400 to-blue-600"
+//   },
+//   {
+//     id: 3,
+//     icon: "🔍",
+//     title: "Smart Analysis",
+//     subtitle: "AI-Powered Insights",
+//     description: "Our advanced AI analyzes product reviews, ratings, and specifications to help you make informed decisions.",
+//     stats: "99.2% accuracy in recommendations",
+//     color: "from-purple-400 to-purple-600"
+//   },
+//   {
+//     id: 4,
+//     icon: "🛡️",
+//     title: "Trusted Reviews",
+//     subtitle: "Verified Information",
+//     description: "Access authentic user reviews and expert ratings from verified buyers. Say goodbye to fake reviews and biased information.",
+//     stats: "Over 2M verified reviews",
+//     color: "from-orange-400 to-orange-600"
+//   },
+//   {
+//     id: 5,
+//     icon: "📊",
+//     title: "Price History",
+//     subtitle: "Track Price Trends",
+//     description: "View detailed price history charts and get alerts when prices drop. Never miss a great deal again.",
+//     stats: "Track prices for 30+ days",
+//     color: "from-indigo-400 to-indigo-600"
+//   },
+//   {
+//     id: 6,
+//     icon: "🎯",
+//     title: "Personalized",
+//     subtitle: "Tailored Recommendations",
+//     description: "Get product suggestions based on your preferences, budget, and shopping history. Find exactly what you need.",
+//     stats: "95% user satisfaction rate",
+//     color: "from-pink-400 to-pink-600"
+//   }
+// ];
 
 // const FeatureCard = ({ feature, index, isActive, onHover }) => {
 //   return (
@@ -141,7 +141,7 @@ const ProcessStep = ({ step, index }) => {
 };
 
 export default function WhyCompare() {
-  const [activeFeature, setActiveFeature] = useState(null);
+  // const [activeFeature, setActiveFeature] = useState(null);
   
   const processSteps = [
     {

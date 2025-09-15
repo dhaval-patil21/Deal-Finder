@@ -45,7 +45,7 @@ export default function PopularCategories() {
               </span>
             </h2>
             <p className="text-slate-600 text-lg sm:text-xl max-w-3xl mx-auto leading-relaxed">
-              Discover our most popular product categories and find exactly what you're looking for. 
+              {`Discover our most popular product categories and find exactly what you're looking for`}. 
               <span className="text-orange-600 font-medium">Quality meets style</span> in every collection.
             </p>
           </div>

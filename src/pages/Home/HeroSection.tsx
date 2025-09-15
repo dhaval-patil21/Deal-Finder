@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { Search, TrendingUp, ChevronLeft, ChevronRight } from "lucide-react";
+import {  TrendingUp  } from "lucide-react";
 
 export default function HeroSection() {
   
@@ -48,14 +48,14 @@ export default function HeroSection() {
         setCurrentDeal((prev) => (prev + 1) % featuredDeals.length);
       }, 4000);
       return () => clearInterval(interval);
-    }, []);
+    }, [featuredDeals]);
 
     useEffect(() => {
       const interval = setInterval(() => {
         setCurrentSlide((prev) => (prev + 1) % carouselSlides.length);
       }, 4000);
       return () => clearInterval(interval);
-    }, []);
+    }, [carouselSlides]);
 
     const nextSlide = () => {
       setCurrentSlide((prev) => (prev + 1) % carouselSlides.length);

@@ -245,7 +245,7 @@ export default function TrendingDeals() {
               </span>
             </h2>
             <p className="text-slate-600 text-lg sm:text-xl max-w-3xl mx-auto leading-relaxed">
-              Don't miss out on these incredible deals! 
+              {`Don't miss out on these incredible deals! `}
               <span className="text-orange-600 font-medium"> Limited quantities</span> and time remaining.
             </p>
           </div>

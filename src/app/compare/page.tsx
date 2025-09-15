@@ -6,6 +6,7 @@ import { useCompare } from '../../context/CompareContext';
 import { formatPrice, getPlatformColor } from '../../utils/helpers';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Image from 'next/image';
 
 const ComparePage = () => {
   const router = useRouter();
@@ -125,7 +126,7 @@ const ComparePage = () => {
                         >
                           <X className="w-4 h-4" />
                         </button>
-                        <img
+                        <Image
                           src={product.image}
                           alt={product.title}
                           className="w-32 h-32 object-cover rounded-lg mx-auto mb-4"

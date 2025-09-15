@@ -172,7 +172,7 @@ export default function ContactPage() {
                 Send Us a Message
               </h2>
               <p className="text-gray-600 mb-8">
-                Fill out the form below and we'll get back to you as soon as possible.
+               {` Fill out the form below and we'll get back to you as soon as possible.`}
               </p>
               
               {submitted ? (
@@ -184,7 +184,7 @@ export default function ContactPage() {
                     Message Sent Successfully!
                   </h3>
                   <p className="text-green-600">
-                    Thank you for contacting us. We'll respond within 24 hours.
+                    {` Thank you for contacting us. We'll respond within 24 hours.`}
                   </p>
                 </div>
               ) : (
@@ -372,7 +372,7 @@ export default function ContactPage() {
 
           <div className="text-center mt-12">
             <p className="text-gray-600 mb-4">
-              Didn't find what you were looking for?
+             {` Didn't find what you were looking for?` }
             </p>
             <button className="bg-orange-500 hover:bg-orange-600 text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-200">
               Contact Support

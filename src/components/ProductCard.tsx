@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import { Heart, Star, ExternalLink, ShoppingCart } from 'lucide-react';
 import { formatPrice, getPlatformColor } from '../utils/helpers';
 import CompareButton from '../components/CompareButton';
+import Image from 'next/image';
 
 const ProductCard = ({ product }) => {
   const [isWishlisted, setIsWishlisted] = useState(false);
@@ -42,9 +43,11 @@ const ProductCard = ({ product }) => {
     <div className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 border border-gray-100 overflow-hidden max-w-sm">
       {/* Image Section */}
       <div className="relative group">
-        <img 
+        <Image
           src={product.image} 
           alt={product.title}
+          width={320}
+          height={350}
           className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
         />
         
