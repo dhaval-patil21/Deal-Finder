@@ -1,8 +1,6 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
-    images: {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
     remotePatterns: [
       {
         protocol: 'https',
@@ -10,14 +8,12 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-    typescript: {
-    // Ignore TypeScript errors during build (for JavaScript-only projects)
+  typescript: {
     ignoreBuildErrors: true,
   },
   eslint: {
-    // Ignore ESLint errors during build
     ignoreDuringBuilds: true,
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
