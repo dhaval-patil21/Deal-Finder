@@ -41,7 +41,7 @@ export const CompareProvider = ({ children }) => {
   };
 
   const canCompare = () => {
-    return compareList.length >= 2;
+    return compareList.length >= 1;
   };
 
   const isCompareFull = () => {
