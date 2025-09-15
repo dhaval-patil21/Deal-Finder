@@ -10,7 +10,7 @@ import Image from 'next/image';
 
 const ComparePage = () => {
   const router = useRouter();
-  const { compareList, removeFromCompare, clearCompareList, canCompare } = useCompare() as any;
+  const { compareList, removeFromCompare, clearCompareList, canCompare } = useCompare();
 
   const handleGoBack = () => {
     router.push('/products');
