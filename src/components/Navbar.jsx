@@ -9,8 +9,10 @@ import { useCompare } from "../context/CompareContext";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
-  const { compareCount } = useCompare();
+  // const { compareCount } = useCompare();
 
+  const { compareList } = useCompare();
+  const compareCount = compareList.length;
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
   };
