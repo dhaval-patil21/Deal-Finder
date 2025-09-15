@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { Heart, Star, ExternalLink, ShoppingCart } from 'lucide-react';
 import { formatPrice, getPlatformColor } from '../utils/helpers';
-import CompareButton from '../components/CompareButton';
+import CompareButton from './CompareButton';
 import Image from 'next/image';
 
 const ProductCard = ({ product }) => {
