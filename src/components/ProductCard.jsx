@@ -48,13 +48,13 @@ const ProductCard = ({ product }) => {
           alt={product.title}
           width={320}
           height={350}
-          className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+          className="w-full h-48 object-contain group-hover:scale-105 transition-transform duration-300"
         />
         
         {/* Wishlist Button */}
         <button 
           onClick={handleWishlist}
-          className="absolute top-3 right-3 p-2 bg-white rounded-full shadow-md hover:bg-gray-50 transition-colors duration-200"
+          className="absolute top-3 right-3 p-2 cursor-pointer bg-white rounded-full shadow-md hover:bg-gray-50 transition-colors duration-200"
         >
           <Heart 
             className={`w-5 h-5 ${isWishlisted ? 'fill-red-500 text-red-500' : 'text-gray-400'}`}

@@ -27,7 +27,7 @@ const CompareButton = ({ product, className = "" }) => {
         showNotification(result.message, 'success');
         // Navigate to compare page after a short delay to show the notification
         setTimeout(() => {
-          router.push('/compare');
+          router.push('');
         }, 1000);
       } else {
         showNotification(result.message, 'error');
@@ -58,8 +58,8 @@ const CompareButton = ({ product, className = "" }) => {
           </>
         ) : (
           <>
-            <GitCompare className="w-4 h-4" />
-            <span>Compare</span>
+            <GitCompare className="w-4 h-4 cursor-pointer" />
+            <span className='cursor-pointer'>Compare</span>
           </>
         )}
       </button>
