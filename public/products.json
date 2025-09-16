@@ -24,18 +24,7 @@
       "offer": "12% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 3,
-      "title": "Apple iPhone 15 Pro Max (256GB) - Natural Titanium",
-      "price": 142900,
-      "originalPrice": 159900,
-      "rating": 4.3,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "/products/iphone3.jpeg",
-      "offer": "11% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 4,
       "title": "Apple iPhone 15 Pro Max (256GB) - white Titanium",
@@ -72,18 +61,7 @@
       "offer": "10% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 7,
-      "title": "Samsung Galaxy S24 Ultra 5G (Orange, 256GB)",
-      "price": 114999,
-      "originalPrice": 124999,
-      "rating": 4.1,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "/products/samsung3.jpg",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 8,
       "title": "Samsung Galaxy S24 Ultra 5G (Black, 256GB)",
@@ -104,7 +82,7 @@
       "rating": 4.7,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
+      "image": "/products/mac1.jpg",
       "offer": "9% OFF",
       "link": "https://amazon.com/"
     },
@@ -116,22 +94,11 @@
       "rating": 4.6,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
+      "image": "/products/mac2.jpeg",
       "offer": "7% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 11,
-      "title": "Apple MacBook Pro M3 14-inch (Space Gray, 512GB SSD)",
-      "price": 207900,
-      "originalPrice": 219900,
-      "rating": 4.5,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 12,
       "title": "Apple MacBook Pro M3 14-inch (Space Gray, 512GB SSD)",
@@ -140,7 +107,7 @@
       "rating": 4.4,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
+      "image": "/products/mac3.jpeg",
       "offer": "5% OFF",
       "link": "https://meesho.com/"
     },
@@ -152,7 +119,7 @@
       "rating": 4.4,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+      "image": "/products/headphone1.jpg",
       "offer": "17% OFF",
       "link": "https://amazon.com/"
     },
@@ -164,22 +131,11 @@
       "rating": 4.3,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+      "image": "/products/headphone2.jpg",
       "offer": "10% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 15,
-      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
-      "price": 27990,
-      "originalPrice": 29990,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 16,
       "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
@@ -188,7 +144,7 @@
       "rating": 4.1,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+      "image": "/products/headphone4.png",
       "offer": "5% OFF",
       "link": "https://meesho.com/"
     },
@@ -200,7 +156,7 @@
       "rating": 4.2,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
+      "image": "/products/laptop1.jpg",
       "offer": "12% OFF",
       "link": "https://amazon.com/"
     },
@@ -212,22 +168,11 @@
       "rating": 4.1,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
+      "image": "/products/laptop2.jpg",
       "offer": "9% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 19,
-      "title": "Dell XPS 13 Plus Laptop Intel Core i7 (Silver, 16GB RAM)",
-      "price": 157900,
-      "originalPrice": 169900,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 20,
       "title": "Dell XPS 13 Plus Laptop Intel Core i7 (Silver, 16GB RAM)",
@@ -236,199 +181,83 @@
       "rating": 3.9,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
+      "image": "/products/laptop4.jpg",
       "offer": "6% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 21,
-      "title": "Nintendo Switch OLED Model with Neon Blue and Neon Red Joy‑Con",
-      "price": 34999,
-      "originalPrice": 37999,
-      "rating": 4.6,
-      "platform": "Amazon",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 22,
-      "title": "Nintendo Switch OLED Model with Neon Blue and Neon Red Joy‑Con",
-      "price": 35999,
-      "originalPrice": 37999,
-      "rating": 4.5,
-      "platform": "Flipkart",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 23,
-      "title": "Nintendo Switch OLED Model with Neon Blue and Neon Red Joy‑Con",
-      "price": 36499,
-      "originalPrice": 37999,
-      "rating": 4.4,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 24,
-      "title": "Nintendo Switch OLED Model with Neon Blue and Neon Red Joy‑Con",
-      "price": 36999,
-      "originalPrice": 37999,
-      "rating": 4.3,
-      "platform": "Meesho",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
-      "offer": "3% OFF",
-      "link": "https://meesho.com/"
-    },
+
     {
       "id": 25,
-      "title": "Apple Watch Series 9 GPS (45mm, Midnight Aluminum)",
+      "title": "Apple Watch Series 9 GPS (45mm)",
       "price": 39999,
       "originalPrice": 44999,
       "rating": 4.4,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
+      "image": "/products/applewatch1.jpg",
       "offer": "11% OFF",
       "link": "https://amazon.com/"
     },
     {
       "id": 26,
-      "title": "Apple Watch Series 9 GPS (45mm, Midnight Aluminum)",
+      "title": "Apple Watch Series 9 GPS (45mm)",
       "price": 41999,
       "originalPrice": 44999,
       "rating": 4.3,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
+      "image": "/products/applewatch3.jpg",
       "offer": "7% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 27,
-      "title": "Apple Watch Series 9 GPS (45mm, Midnight Aluminum)",
-      "price": 42999,
-      "originalPrice": 44999,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 28,
-      "title": "Apple Watch Series 9 GPS (45mm, Midnight Aluminum)",
+      "title": "Apple Watch Series 9 GPS (45mm)",
       "price": 43499,
       "originalPrice": 44999,
       "rating": 4.1,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
+      "image": "/products/applewatch4.jpg",
       "offer": "3% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 29,
-      "title": "Canon EOS R6 Mark II Mirrorless Camera Body",
-      "price": 189999,
-      "originalPrice": 219999,
-      "rating": 4.7,
-      "platform": "Amazon",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "14% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 30,
-      "title": "Canon EOS R6 Mark II Mirrorless Camera Body",
-      "price": 194999,
-      "originalPrice": 219999,
-      "rating": 4.6,
-      "platform": "Flipkart",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 31,
-      "title": "Canon EOS R6 Mark II Mirrorless Camera Body",
-      "price": 199999,
-      "originalPrice": 219999,
-      "rating": 4.5,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "9% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 32,
-      "title": "Canon EOS R6 Mark II Mirrorless Camera Body",
-      "price": 204999,
-      "originalPrice": 219999,
-      "rating": 4.4,
-      "platform": "Meesho",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://meesho.com/"
-    },
+
     {
       "id": 33,
-      "title": "Bose QuietComfort Earbuds (Eclipse Grey)",
+      "title": "Bose QuietComfort Earbuds (black)",
       "price": 19999,
       "originalPrice": 24999,
       "rating": 4.2,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
+      "image": "/products/bose-earbuds1.jpg",
       "offer": "20% OFF",
       "link": "https://amazon.com/"
     },
     {
       "id": 34,
-      "title": "Bose QuietComfort Earbuds (Eclipse Grey)",
+      "title": "Bose QuietComfort Earbuds (navy blue)",
       "price": 21999,
       "originalPrice": 24999,
       "rating": 4.1,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
+      "image": "/products/bose-earbuds3.jpeg",
       "offer": "12% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 35,
-      "title": "Bose QuietComfort Earbuds (Eclipse Grey)",
-      "price": 22999,
-      "originalPrice": 24999,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 36,
-      "title": "Bose QuietComfort Earbuds (Eclipse Grey)",
+      "title": "Bose QuietComfort Earbuds (sky blue)",
       "price": 23499,
       "originalPrice": 24999,
       "rating": 3.9,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
+      "image": "/products/bose-earbuds4.jpg",
       "offer": "6% OFF",
       "link": "https://meesho.com/"
     },
@@ -440,7 +269,7 @@
       "rating": 4.3,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpeg",
       "offer": "19% OFF",
       "link": "https://amazon.com/"
     },
@@ -452,22 +281,11 @@
       "rating": 4.2,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv2.jpg",
       "offer": "15% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 39,
-      "title": "Samsung 55 Class QLED 4K UHD Smart TV",
-      "price": 69999,
-      "originalPrice": 79999,
-      "rating": 4.1,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
-      "offer": "13% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 40,
       "title": "Samsung 55 Class QLED 4K UHD Smart TV",
@@ -476,106 +294,11 @@
       "rating": 4.0,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv4.jpg",
       "offer": "10% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 41,
-      "title": "Dyson V15 Detect Cordless Vacuum Cleaner",
-      "price": 54999,
-      "originalPrice": 64999,
-      "rating": 4.6,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 42,
-      "title": "Dyson V15 Detect Cordless Vacuum Cleaner",
-      "price": 57999,
-      "originalPrice": 64999,
-      "rating": 4.5,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 43,
-      "title": "Dyson V15 Detect Cordless Vacuum Cleaner",
-      "price": 59999,
-      "originalPrice": 64999,
-      "rating": 4.4,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 44,
-      "title": "Dyson V15 Detect Cordless Vacuum Cleaner",
-      "price": 61999,
-      "originalPrice": 64999,
-      "rating": 4.3,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 45,
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker (6 Quart)",
-      "price": 7999,
-      "originalPrice": 9999,
-      "rating": 4.4,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "20% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 46,
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker (6 Quart)",
-      "price": 8499,
-      "originalPrice": 9999,
-      "rating": 4.3,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 47,
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker (6 Quart)",
-      "price": 8999,
-      "originalPrice": 9999,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 48,
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker (6 Quart)",
-      "price": 9299,
-      "originalPrice": 9999,
-      "rating": 4.1,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://meesho.com/"
-    },
+
     {
       "id": 49,
       "title": "OnePlus 12R 5G (Cool Blue, 256GB) with Charger",
@@ -584,7 +307,7 @@
       "rating": 4.2,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400&h=300&fit=crop",
+      "image": "/products/oneplus1.jpg",
       "offer": "14% OFF",
       "link": "https://amazon.com/"
     },
@@ -596,22 +319,11 @@
       "rating": 4.1,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400&h=300&fit=crop",
+      "image": "/products/oneplus2.jpg",
       "offer": "10% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 51,
-      "title": "OnePlus 12R 5G (Cool Blue, 256GB) with Charger",
-      "price": 46999,
-      "originalPrice": 49999,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400&h=300&fit=crop",
-      "offer": "6% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 52,
       "title": "OnePlus 12R 5G (Cool Blue, 256GB) with Charger",
@@ -620,19 +332,19 @@
       "rating": 3.9,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400&h=300&fit=crop",
+      "image": "/products/oneplus3.jpg",
       "offer": "4% OFF",
       "link": "https://meesho.com/"
     },
     {
       "id": 53,
-      "title": "Xiaomi 14 Ultra 5G (White, 512GB) with 200MP Camera",
+      "title": "Xiaomi 14 Ultra 5G (black, 512GB) with 200MP Camera",
       "price": 89999,
       "originalPrice": 99999,
       "rating": 4.4,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
+      "image": "/products/redmi1.png",
       "offer": "10% OFF",
       "link": "https://amazon.com/"
     },
@@ -644,31 +356,20 @@
       "rating": 4.3,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
+      "image": "/products/redmi2.jpg",
       "offer": "7% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 55,
-      "title": "Xiaomi 14 Ultra 5G (White, 512GB) with 200MP Camera",
-      "price": 94999,
-      "originalPrice": 99999,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 56,
-      "title": "Xiaomi 14 Ultra 5G (White, 512GB) with 200MP Camera",
+      "title": "Xiaomi 14 Ultra 5G (black, 512GB) with 200MP Camera",
       "price": 96999,
       "originalPrice": 99999,
       "rating": 4.1,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
+      "image": "/products/redmi4.jpeg",
       "offer": "3% OFF",
       "link": "https://meesho.com/"
     },
@@ -680,7 +381,7 @@
       "rating": 4.0,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=300&fit=crop",
+      "image": "/products/hplaptop1.jpeg",
       "offer": "15% OFF",
       "link": "https://amazon.com/"
     },
@@ -692,22 +393,11 @@
       "rating": 3.9,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=300&fit=crop",
+      "image": "/products/hplaptop2.jpeg",
       "offer": "11% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 59,
-      "title": "HP Pavilion Gaming Laptop (Ryzen 5, 8GB RAM, GTX 1650)",
-      "price": 59999,
-      "originalPrice": 64999,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 60,
       "title": "HP Pavilion Gaming Laptop (Ryzen 5, 8GB RAM, GTX 1650)",
@@ -716,7 +406,7 @@
       "rating": 3.7,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=300&fit=crop",
+      "image": "/products/hplaptop4.jpg",
       "offer": "5% OFF",
       "link": "https://meesho.com/"
     },
@@ -728,7 +418,7 @@
       "rating": 4.5,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+      "image": "/products/asuslaptop1.jpg",
       "offer": "14% OFF",
       "link": "https://amazon.com/"
     },
@@ -740,22 +430,11 @@
       "rating": 4.4,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+      "image": "/products/asuslaptop2.jpeg",
       "offer": "11% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 63,
-      "title": "ASUS ROG Strix G15 Gaming Laptop (Intel i7, RTX 3060)",
-      "price": 94999,
-      "originalPrice": 104999,
-      "rating": 4.3,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 64,
       "title": "ASUS ROG Strix G15 Gaming Laptop (Intel i7, RTX 3060)",
@@ -764,7 +443,7 @@
       "rating": 4.2,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+      "image": "/products/asuslaptop3.jpg",
       "offer": "7% OFF",
       "link": "https://meesho.com/"
     },
@@ -792,18 +471,7 @@
       "offer": "15% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 67,
-      "title": "JBL Charge 5 Portable Bluetooth Speaker (Blue)",
-      "price": 17999,
-      "originalPrice": 19999,
-      "rating": 4.1,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 68,
       "title": "JBL Charge 5 Portable Bluetooth Speaker (Blue)",
@@ -840,18 +508,7 @@
       "offer": "36% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 71,
-      "title": "boAt Airdopes 800 TWS Earbuds with Spatial Audio",
-      "price": 4999,
-      "originalPrice": 6999,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
-      "offer": "29% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 72,
       "title": "boAt Airdopes 800 TWS Earbuds with Spatial Audio",
@@ -1016,7 +673,7 @@
       "rating": 4.1,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpg",
       "offer": "19% OFF",
       "link": "https://amazon.com/"
     },
@@ -1028,22 +685,11 @@
       "rating": 4.0,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpg",
       "offer": "14% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 87,
-      "title": "LG 43 Inch 4K Ultra HD Smart LED TV (43UP7500PTZ)",
-      "price": 38999,
-      "originalPrice": 42999,
-      "rating": 3.9,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
-      "offer": "9% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 88,
       "title": "LG 43 Inch 4K Ultra HD Smart LED TV (43UP7500PTZ)",
@@ -1052,202 +698,11 @@
       "rating": 3.8,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpg",
       "offer": "5% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 89,
-      "title": "Whirlpool 1.5 Ton 5 Star Inverter Split AC (Copper)",
-      "price": 34999,
-      "originalPrice": 44999,
-      "rating": 4.2,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1631545803104-8e08ea6cf04f?w=400&h=300&fit=crop",
-      "offer": "22% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 90,
-      "title": "Whirlpool 1.5 Ton 5 Star Inverter Split AC (Copper)",
-      "price": 37999,
-      "originalPrice": 44999,
-      "rating": 4.1,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1631545803104-8e08ea6cf04f?w=400&h=300&fit=crop",
-      "offer": "16% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 91,
-      "title": "Whirlpool 1.5 Ton 5 Star Inverter Split AC (Copper)",
-      "price": 39999,
-      "originalPrice": 44999,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1631545803104-8e08ea6cf04f?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 92,
-      "title": "Whirlpool 1.5 Ton 5 Star Inverter Split AC (Copper)",
-      "price": 41999,
-      "originalPrice": 44999,
-      "rating": 3.9,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1631545803104-8e08ea6cf04f?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 93,
-      "title": "Mi Smart Air Purifier 3 with True HEPA Filter",
-      "price": 12999,
-      "originalPrice": 16999,
-      "rating": 4.2,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "23% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 94,
-      "title": "Mi Smart Air Purifier 3 with True HEPA Filter",
-      "price": 13999,
-      "originalPrice": 16999,
-      "rating": 4.1,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "18% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 95,
-      "title": "Mi Smart Air Purifier 3 with True HEPA Filter",
-      "price": 14999,
-      "originalPrice": 16999,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "12% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 96,
-      "title": "Mi Smart Air Purifier 3 with True HEPA Filter",
-      "price": 15499,
-      "originalPrice": 16999,
-      "rating": 3.9,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "9% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 97,
-      "title": "Godrej 190L 3 Star Direct Cool Single Door Refrigerator",
-      "price": 13999,
-      "originalPrice": 16999,
-      "rating": 4.0,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=400&h=300&fit=crop",
-      "offer": "18% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 98,
-      "title": "Godrej 190L 3 Star Direct Cool Single Door Refrigerator",
-      "price": 14999,
-      "originalPrice": 16999,
-      "rating": 3.9,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=400&h=300&fit=crop",
-      "offer": "12% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 99,
-      "title": "Godrej 190L 3 Star Direct Cool Single Door Refrigerator",
-      "price": 15499,
-      "originalPrice": 16999,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=400&h=300&fit=crop",
-      "offer": "9% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 100,
-      "title": "Godrej 190L 3 Star Direct Cool Single Door Refrigerator",
-      "price": 15999,
-      "originalPrice": 16999,
-      "rating": 3.7,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=400&h=300&fit=crop",
-      "offer": "6% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 101,
-      "title": "Philips Air Fryer HD9252/90 (4.1L, Digital Touch Panel)",
-      "price": 11999,
-      "originalPrice": 14999,
-      "rating": 4.3,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "20% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 102,
-      "title": "Philips Air Fryer HD9252/90 (4.1L, Digital Touch Panel)",
-      "price": 12999,
-      "originalPrice": 14999,
-      "rating": 4.2,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "13% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 103,
-      "title": "Philips Air Fryer HD9252/90 (4.1L, Digital Touch Panel)",
-      "price": 13499,
-      "originalPrice": 14999,
-      "rating": 4.1,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 104,
-      "title": "Philips Air Fryer HD9252/90 (4.1L, Digital Touch Panel)",
-      "price": 13999,
-      "originalPrice": 14999,
-      "rating": 4.0,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://meesho.com/"
-    },
+
     {
       "id": 105,
       "title": "Realme GT 6T 5G (Fluid Silver, 128GB) Gaming Phone",
@@ -1272,18 +727,7 @@
       "offer": "8% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 107,
-      "title": "Realme GT 6T 5G (Fluid Silver, 128GB) Gaming Phone",
-      "price": 34999,
-      "originalPrice": 36999,
-      "rating": 3.9,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 108,
       "title": "Realme GT 6T 5G (Fluid Silver, 128GB) Gaming Phone",
@@ -1320,18 +764,7 @@
       "offer": "12% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 111,
-      "title": "Vivo Y28 5G (Vintage Red, 128GB) with 50MP Camera",
-      "price": 22999,
-      "originalPrice": 24999,
-      "rating": 3.7,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 112,
       "title": "Vivo Y28 5G (Vintage Red, 128GB) with 50MP Camera",
@@ -1368,18 +801,7 @@
       "offer": "11% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 115,
-      "title": "Oppo A78 5G (Glowing Blue, 256GB) Stylish Design",
-      "price": 25999,
-      "originalPrice": 27999,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 116,
       "title": "Oppo A78 5G (Glowing Blue, 256GB) Stylish Design",
@@ -1416,18 +838,7 @@
       "offer": "10% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 119,
-      "title": "Samsung Galaxy A25 5G (Light Blue, 128GB)",
-      "price": 27999,
-      "originalPrice": 29999,
-      "rating": 3.9,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 120,
       "title": "Samsung Galaxy A25 5G (Light Blue, 128GB)",
@@ -1464,18 +875,7 @@
       "offer": "14% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 123,
-      "title": "Lenovo IdeaPad 3 Laptop (Ryzen 3, 8GB RAM, 256GB SSD)",
-      "price": 44999,
-      "originalPrice": 49999,
-      "rating": 3.6,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 124,
       "title": "Lenovo IdeaPad 3 Laptop (Ryzen 3, 8GB RAM, 256GB SSD)",
@@ -1511,18 +911,6 @@
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
       "offer": "20% OFF",
       "link": "https://flipkart.com/"
-    },
-    {
-      "id": 127,
-      "title": "The Psychology of Money by Morgan Housel (Paperback)",
-      "price": 339,
-      "originalPrice": 399,
-      "rating": 4.6,
-      "platform": "Myntra",
-      "category": "Books",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://myntra.com/"
     },
     {
       "id": 128,
@@ -1561,18 +949,6 @@
       "link": "https://flipkart.com/"
     },
     {
-      "id": 131,
-      "title": "The Alchemist by Paulo Coelho (English Paperback)",
-      "price": 239,
-      "originalPrice": 299,
-      "rating": 4.4,
-      "platform": "Myntra",
-      "category": "Books",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "20% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
       "id": 132,
       "title": "The Alchemist by Paulo Coelho (English Paperback)",
       "price": 259,
@@ -1582,102 +958,6 @@
       "category": "Books",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
       "offer": "13% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 133,
-      "title": "Himalaya Herbals Face Wash Combo Pack (Neem & Turmeric)",
-      "price": 299,
-      "originalPrice": 399,
-      "rating": 4.1,
-      "platform": "Amazon",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "25% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 134,
-      "title": "Himalaya Herbals Face Wash Combo Pack (Neem & Turmeric)",
-      "price": 319,
-      "originalPrice": 399,
-      "rating": 4.0,
-      "platform": "Flipkart",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "20% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 135,
-      "title": "Himalaya Herbals Face Wash Combo Pack (Neem & Turmeric)",
-      "price": 339,
-      "originalPrice": 399,
-      "rating": 3.9,
-      "platform": "Myntra",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 136,
-      "title": "Himalaya Herbals Face Wash Combo Pack (Neem & Turmeric)",
-      "price": 359,
-      "originalPrice": 399,
-      "rating": 3.8,
-      "platform": "Meesho",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 137,
-      "title": "Lakme Absolute Perfect Radiance Skin Lightening Serum",
-      "price": 799,
-      "originalPrice": 999,
-      "rating": 4.0,
-      "platform": "Amazon",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "20% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 138,
-      "title": "Lakme Absolute Perfect Radiance Skin Lightening Serum",
-      "price": 849,
-      "originalPrice": 999,
-      "rating": 3.9,
-      "platform": "Flipkart",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 139,
-      "title": "Lakme Absolute Perfect Radiance Skin Lightening Serum",
-      "price": 899,
-      "originalPrice": 999,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 140,
-      "title": "Lakme Absolute Perfect Radiance Skin Lightening Serum",
-      "price": 929,
-      "originalPrice": 999,
-      "rating": 3.7,
-      "platform": "Meesho",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
       "link": "https://meesho.com/"
     },
     {
@@ -2064,150 +1344,7 @@
       "offer": "38% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 173,
-      "title": "Kitchen Utensils Set - 7 Pieces Stainless Steel",
-      "price": 799,
-      "originalPrice": 1599,
-      "rating": 4.0,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "50% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 174,
-      "title": "Kitchen Utensils Set - 7 Pieces Stainless Steel",
-      "price": 899,
-      "originalPrice": 1599,
-      "rating": 3.9,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "44% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 175,
-      "title": "Kitchen Utensils Set - 7 Pieces Stainless Steel",
-      "price": 999,
-      "originalPrice": 1599,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "38% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 176,
-      "title": "Kitchen Utensils Set - 7 Pieces Stainless Steel",
-      "price": 1099,
-      "originalPrice": 1599,
-      "rating": 3.7,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "31% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 177,
-      "title": "Non-Stick Cookware Set - 5 Pieces with Glass Lids",
-      "price": 1499,
-      "originalPrice": 2999,
-      "rating": 3.9,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "50% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 178,
-      "title": "Non-Stick Cookware Set - 5 Pieces with Glass Lids",
-      "price": 1699,
-      "originalPrice": 2999,
-      "rating": 3.8,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "43% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 179,
-      "title": "Non-Stick Cookware Set - 5 Pieces with Glass Lids",
-      "price": 1899,
-      "originalPrice": 2999,
-      "rating": 3.7,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "37% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 180,
-      "title": "Non-Stick Cookware Set - 5 Pieces with Glass Lids",
-      "price": 2099,
-      "originalPrice": 2999,
-      "rating": 3.6,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "30% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 181,
-      "title": "LED Table Lamp with USB Charging Port (White)",
-      "price": 899,
-      "originalPrice": 1799,
-      "rating": 4.2,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "50% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 182,
-      "title": "LED Table Lamp with USB Charging Port (White)",
-      "price": 999,
-      "originalPrice": 1799,
-      "rating": 4.1,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "44% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 183,
-      "title": "LED Table Lamp with USB Charging Port (White)",
-      "price": 1199,
-      "originalPrice": 1799,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "33% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 184,
-      "title": "LED Table Lamp with USB Charging Port (White)",
-      "price": 1299,
-      "originalPrice": 1799,
-      "rating": 3.9,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "28% OFF",
-      "link": "https://meesho.com/"
-    },
+
     {
       "id": 185,
       "title": "Bluetooth Wireless Earbuds with Charging Case",
@@ -2232,18 +1369,7 @@
       "offer": "60% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 187,
-      "title": "Bluetooth Wireless Earbuds with Charging Case",
-      "price": 1899,
-      "originalPrice": 3999,
-      "rating": 3.6,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
-      "offer": "53% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 188,
       "title": "Bluetooth Wireless Earbuds with Charging Case",
@@ -2256,150 +1382,7 @@
       "offer": "45% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 189,
-      "title": "Face Care Combo - Cleanser, Toner & Moisturizer",
-      "price": 599,
-      "originalPrice": 1299,
-      "rating": 4.1,
-      "platform": "Amazon",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "54% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 190,
-      "title": "Face Care Combo - Cleanser, Toner & Moisturizer",
-      "price": 699,
-      "originalPrice": 1299,
-      "rating": 4.0,
-      "platform": "Flipkart",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "46% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 191,
-      "title": "Face Care Combo - Cleanser, Toner & Moisturizer",
-      "price": 799,
-      "originalPrice": 1299,
-      "rating": 3.9,
-      "platform": "Myntra",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "38% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 192,
-      "title": "Face Care Combo - Cleanser, Toner & Moisturizer",
-      "price": 899,
-      "originalPrice": 1299,
-      "rating": 3.8,
-      "platform": "Meesho",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "31% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 193,
-      "title": "Hair Oil Combo Pack - Coconut & Argan Oil (200ml Each)",
-      "price": 499,
-      "originalPrice": 999,
-      "rating": 3.9,
-      "platform": "Amazon",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "50% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 194,
-      "title": "Hair Oil Combo Pack - Coconut & Argan Oil (200ml Each)",
-      "price": 599,
-      "originalPrice": 999,
-      "rating": 3.8,
-      "platform": "Flipkart",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "40% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 195,
-      "title": "Hair Oil Combo Pack - Coconut & Argan Oil (200ml Each)",
-      "price": 699,
-      "originalPrice": 999,
-      "rating": 3.7,
-      "platform": "Myntra",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "30% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 196,
-      "title": "Hair Oil Combo Pack - Coconut & Argan Oil (200ml Each)",
-      "price": 749,
-      "originalPrice": 999,
-      "rating": 3.6,
-      "platform": "Meesho",
-      "category": "Beauty",
-      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=300&fit=crop",
-      "offer": "25% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 197,
-      "title": "Wall Clock Digital Display with Temperature (Black)",
-      "price": 799,
-      "originalPrice": 1599,
-      "rating": 4.0,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "50% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 198,
-      "title": "Wall Clock Digital Display with Temperature (Black)",
-      "price": 899,
-      "originalPrice": 1599,
-      "rating": 3.9,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "44% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 199,
-      "title": "Wall Clock Digital Display with Temperature (Black)",
-      "price": 999,
-      "originalPrice": 1599,
-      "rating": 3.8,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "38% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 200,
-      "title": "Wall Clock Digital Display with Temperature (Black)",
-      "price": 1099,
-      "originalPrice": 1599,
-      "rating": 3.7,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "31% OFF",
-      "link": "https://meesho.com/"
-    },
+
     {
       "id": 201,
       "title": "iPhone 14 Pro (Deep Purple, 128GB) with MagSafe",
@@ -2424,18 +1407,7 @@
       "offer": "5% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 203,
-      "title": "iPhone 14 Pro (Deep Purple, 128GB) with MagSafe",
-      "price": 124900,
-      "originalPrice": 129900,
-      "rating": 4.4,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 204,
       "title": "iPhone 14 Pro (Deep Purple, 128GB) with MagSafe",
@@ -2473,18 +1445,6 @@
       "link": "https://flipkart.com/"
     },
     {
-      "id": 207,
-      "title": "Google Pixel 8 Pro (Obsidian, 256GB) with AI Features",
-      "price": 89999,
-      "originalPrice": 99999,
-      "rating": 4.1,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
       "id": 208,
       "title": "Google Pixel 8 Pro (Obsidian, 256GB) with AI Features",
       "price": 92999,
@@ -2504,7 +1464,7 @@
       "rating": 4.4,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
+      "image": "/products/laptop1.jpg",
       "offer": "13% OFF",
       "link": "https://amazon.com/"
     },
@@ -2516,21 +1476,9 @@
       "rating": 4.3,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
+      "image": "/products/laptop1.jpg",
       "offer": "10% OFF",
       "link": "https://flipkart.com/"
-    },
-    {
-      "id": 211,
-      "title": "Microsoft Surface Laptop 5 (Platinum, Intel i7, 16GB)",
-      "price": 139999,
-      "originalPrice": 149999,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
     },
     {
       "id": 212,
@@ -2540,7 +1488,7 @@
       "rating": 4.1,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop",
+      "image": "/products/laptop1.jpg",
       "offer": "5% OFF",
       "link": "https://meesho.com/"
     },
@@ -2567,18 +1515,6 @@
       "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
       "offer": "5% OFF",
       "link": "https://flipkart.com/"
-    },
-    {
-      "id": 215,
-      "title": "PlayStation 5 Console (Standard Edition) with Controller",
-      "price": 52999,
-      "originalPrice": 54999,
-      "rating": 4.5,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://myntra.com/"
     },
     {
       "id": 216,
@@ -2617,18 +1553,6 @@
       "link": "https://flipkart.com/"
     },
     {
-      "id": 219,
-      "title": "Xbox Series X Gaming Console (1TB SSD) with Game Pass",
-      "price": 50999,
-      "originalPrice": 52999,
-      "rating": 4.3,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
       "id": 220,
       "title": "Xbox Series X Gaming Console (1TB SSD) with Game Pass",
       "price": 51499,
@@ -2665,18 +1589,6 @@
       "link": "https://flipkart.com/"
     },
     {
-      "id": 223,
-      "title": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
-      "price": 25499,
-      "originalPrice": 26999,
-      "rating": 4.4,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop",
-      "offer": "6% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
       "id": 224,
       "title": "AirPods Pro (2nd Generation) with MagSafe Charging Case",
       "price": 25999,
@@ -2696,7 +1608,7 @@
       "rating": 4.8,
       "platform": "Amazon",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpg",
       "offer": "17% OFF",
       "link": "https://amazon.com/"
     },
@@ -2708,21 +1620,9 @@
       "rating": 4.7,
       "platform": "Flipkart",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpg",
       "offer": "14% OFF",
       "link": "https://flipkart.com/"
-    },
-    {
-      "id": 227,
-      "title": "LG OLED 65 Inch 4K Smart TV with AI ThinQ",
-      "price": 159999,
-      "originalPrice": 179999,
-      "rating": 4.6,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://myntra.com/"
     },
     {
       "id": 228,
@@ -2732,58 +1632,11 @@
       "rating": 4.5,
       "platform": "Meesho",
       "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "image": "/products/samsungtv1.jpg",
       "offer": "8% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 229,
-      "title": "Nikon D850 DSLR Camera Body (45.7MP Full Frame)",
-      "price": 249999,
-      "originalPrice": 289999,
-      "rating": 4.9,
-      "platform": "Amazon",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "14% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 230,
-      "title": "Nikon D850 DSLR Camera Body (45.7MP Full Frame)",
-      "price": 259999,
-      "originalPrice": 289999,
-      "rating": 4.8,
-      "platform": "Flipkart",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "10% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 231,
-      "title": "Nikon D850 DSLR Camera Body (45.7MP Full Frame)",
-      "price": 269999,
-      "originalPrice": 289999,
-      "rating": 4.7,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 232,
-      "title": "Nikon D850 DSLR Camera Body (45.7MP Full Frame)",
-      "price": 274999,
-      "originalPrice": 289999,
-      "rating": 4.6,
-      "platform": "Meesho",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://meesho.com/"
-    },
+    
     {
       "id": 233,
       "title": "Marshall Acton III Bluetooth Speaker (Black)",
@@ -2809,18 +1662,6 @@
       "link": "https://flipkart.com/"
     },
     {
-      "id": 235,
-      "title": "Marshall Acton III Bluetooth Speaker (Black)",
-      "price": 22999,
-      "originalPrice": 24999,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
       "id": 236,
       "title": "Marshall Acton III Bluetooth Speaker (Black)",
       "price": 23499,
@@ -2830,294 +1671,6 @@
       "category": "Electronics",
       "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=400&h=300&fit=crop",
       "offer": "6% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 237,
-      "title": "Fitbit Charge 6 Fitness Tracker (Obsidian Aluminum)",
-      "price": 14999,
-      "originalPrice": 17999,
-      "rating": 4.2,
-      "platform": "Amazon",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
-      "offer": "17% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 238,
-      "title": "Fitbit Charge 6 Fitness Tracker (Obsidian Aluminum)",
-      "price": 15999,
-      "originalPrice": 17999,
-      "rating": 4.1,
-      "platform": "Flipkart",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 239,
-      "title": "Fitbit Charge 6 Fitness Tracker (Obsidian Aluminum)",
-      "price": 16499,
-      "originalPrice": 17999,
-      "rating": 4.0,
-      "platform": "Myntra",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 240,
-      "title": "Fitbit Charge 6 Fitness Tracker (Obsidian Aluminum)",
-      "price": 16999,
-      "originalPrice": 17999,
-      "rating": 3.9,
-      "platform": "Meesho",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400&h=300&fit=crop",
-      "offer": "6% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 241,
-      "title": "KitchenAid Stand Mixer (Artisan Series, Empire Red)",
-      "price": 34999,
-      "originalPrice": 42999,
-      "rating": 4.7,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "19% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 242,
-      "title": "KitchenAid Stand Mixer (Artisan Series, Empire Red)",
-      "price": 37999,
-      "originalPrice": 42999,
-      "rating": 4.6,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "12% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 243,
-      "title": "KitchenAid Stand Mixer (Artisan Series, Empire Red)",
-      "price": 39999,
-      "originalPrice": 42999,
-      "rating": 4.5,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 244,
-      "title": "KitchenAid Stand Mixer (Artisan Series, Empire Red)",
-      "price": 40999,
-      "originalPrice": 42999,
-      "rating": 4.4,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 245,
-      "title": "Breville Barista Express Espresso Machine (Stainless Steel)",
-      "price": 54999,
-      "originalPrice": 64999,
-      "rating": 4.6,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 246,
-      "title": "Breville Barista Express Espresso Machine (Stainless Steel)",
-      "price": 57999,
-      "originalPrice": 64999,
-      "rating": 4.5,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 247,
-      "title": "Breville Barista Express Espresso Machine (Stainless Steel)",
-      "price": 59999,
-      "originalPrice": 64999,
-      "rating": 4.4,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "8% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 248,
-      "title": "Breville Barista Express Espresso Machine (Stainless Steel)",
-      "price": 61999,
-      "originalPrice": 64999,
-      "rating": 4.3,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
-      "offer": "5% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 249,
-      "title": "iRobot Roomba j7+ Self-Emptying Robot Vacuum",
-      "price": 64999,
-      "originalPrice": 79999,
-      "rating": 4.5,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "19% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 250,
-      "title": "iRobot Roomba j7+ Self-Emptying Robot Vacuum",
-      "price": 69999,
-      "originalPrice": 79999,
-      "rating": 4.4,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "13% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 251,
-      "title": "iRobot Roomba j7+ Self-Emptying Robot Vacuum",
-      "price": 72999,
-      "originalPrice": 79999,
-      "rating": 4.3,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "9% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 252,
-      "title": "iRobot Roomba j7+ Self-Emptying Robot Vacuum",
-      "price": 74999,
-      "originalPrice": 79999,
-      "rating": 4.2,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
-      "offer": "6% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 253,
-      "title": "Nest Learning Thermostat (4th Gen, Snow)",
-      "price": 22999,
-      "originalPrice": 26999,
-      "rating": 4.3,
-      "platform": "Amazon",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 254,
-      "title": "Nest Learning Thermostat (4th Gen, Snow)",
-      "price": 24999,
-      "originalPrice": 26999,
-      "rating": 4.2,
-      "platform": "Flipkart",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 255,
-      "title": "Nest Learning Thermostat (4th Gen, Snow)",
-      "price": 25499,
-      "originalPrice": 26999,
-      "rating": 4.1,
-      "platform": "Myntra",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "6% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 256,
-      "title": "Nest Learning Thermostat (4th Gen, Snow)",
-      "price": 25999,
-      "originalPrice": 26999,
-      "rating": 4.0,
-      "platform": "Meesho",
-      "category": "Home & Kitchen",
-      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://meesho.com/"
-    },
-    {
-      "id": 257,
-      "title": "Tesla Model Y Performance (Long Range, Pearl White)",
-      "price": 6799999,
-      "originalPrice": 7299999,
-      "rating": 4.8,
-      "platform": "Amazon",
-      "category": "Automotive",
-      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
-      "offer": "7% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 258,
-      "title": "Tesla Model Y Performance (Long Range, Pearl White)",
-      "price": 6999999,
-      "originalPrice": 7299999,
-      "rating": 4.7,
-      "platform": "Flipkart",
-      "category": "Automotive",
-      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
-      "offer": "4% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 259,
-      "title": "Tesla Model Y Performance (Long Range, Pearl White)",
-      "price": 7099999,
-      "originalPrice": 7299999,
-      "rating": 4.6,
-      "platform": "Myntra",
-      "category": "Automotive",
-      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
-      "offer": "3% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
-      "id": 260,
-      "title": "Tesla Model Y Performance (Long Range, Pearl White)",
-      "price": 7199999,
-      "originalPrice": 7299999,
-      "rating": 4.5,
-      "platform": "Meesho",
-      "category": "Automotive",
-      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
-      "offer": "1% OFF",
       "link": "https://meesho.com/"
     },
     {
@@ -3143,18 +1696,6 @@
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
       "offer": "16% OFF",
       "link": "https://flipkart.com/"
-    },
-    {
-      "id": 263,
-      "title": "Atomic Habits by James Clear (Paperback)",
-      "price": 439,
-      "originalPrice": 499,
-      "rating": 4.5,
-      "platform": "Myntra",
-      "category": "Books",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "12% OFF",
-      "link": "https://myntra.com/"
     },
     {
       "id": 264,
@@ -3193,18 +1734,6 @@
       "link": "https://flipkart.com/"
     },
     {
-      "id": 267,
-      "title": "Think and Grow Rich by Napoleon Hill (Hardcover)",
-      "price": 679,
-      "originalPrice": 799,
-      "rating": 4.3,
-      "platform": "Myntra",
-      "category": "Books",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "15% OFF",
-      "link": "https://myntra.com/"
-    },
-    {
       "id": 268,
       "title": "Think and Grow Rich by Napoleon Hill (Hardcover)",
       "price": 719,
@@ -3240,18 +1769,7 @@
       "offer": "16% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 271,
-      "title": "Rich Dad Poor Dad by Robert Kiyosaki (Paperback)",
-      "price": 399,
-      "originalPrice": 449,
-      "rating": 4.2,
-      "platform": "Myntra",
-      "category": "Books",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
-      "offer": "11% OFF",
-      "link": "https://myntra.com/"
-    },
+
     {
       "id": 272,
       "title": "Rich Dad Poor Dad by Robert Kiyosaki (Paperback)",
