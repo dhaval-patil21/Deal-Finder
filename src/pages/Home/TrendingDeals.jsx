@@ -269,10 +269,10 @@ export default function TrendingDeals() {
         {/* View All Button */}
         <div className="text-center mt-16">
           <Link 
-            href="/deals"
+            href="/products"
             className="inline-flex items-center px-8 py-4 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 text-lg"
           >
-            <span>View All Deals</span>
+            <span>Explore More</span>
             <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
             </svg>
