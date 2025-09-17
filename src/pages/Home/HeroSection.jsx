@@ -214,7 +214,7 @@ export default function HeroSection() {
             <div className="text-white font-semibold text-lg">Amazon</div>
             <div className="text-white font-semibold text-lg">Flipkart</div>
             <div className="text-white font-semibold text-lg">Myntra</div>
-            <div className="text-white font-semibold text-lg">Nykaa</div>
+            <div className="text-white font-semibold text-lg">Meesho</div>
           </div>
         </div>
       </div>
