@@ -1,53 +1,6 @@
 {
   "products": [
-    {
-      "id": 149,
-      "title": "Woodland Men's Leather Casual Shoes (Brown, Size 8)",
-      "price": 6999,
-      "originalPrice": 9999,
-      "rating": 4.1,
-      "platform": "Amazon",
-      "category": "Fashion",
-      "image": "/products/woodland1.jpg",
-      "offer": "30% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 33,
-      "title": "Bose QuietComfort Earbuds (black)",
-      "price": 19999,
-      "originalPrice": 24999,
-      "rating": 4.2,
-      "platform": "Amazon",
-      "category": "Electronics",
-      "image": "/products/bose-earbuds1.jpg",
-      "offer": "20% OFF",
-      "link": "https://amazon.com/"
-    },
-    {
-      "id": 78,
-      "title": "Nike Air Jordan 1 Retro High OG (Chicago, Size 10)",
-      "price": 13999,
-      "originalPrice": 15999,
-      "rating": 4.4,
-      "platform": "Flipkart",
-      "category": "Fashion",
-      "image": "/products/nike2.jpg",
-      "offer": "13% OFF",
-      "link": "https://flipkart.com/"
-    },
-    {
-      "id": 125,
-      "title": "The Psychology of Money by Morgan Housel (Paperback)",
-      "price": 299,
-      "originalPrice": 399,
-      "rating": 4.8,
-      "platform": "Amazon",
-      "category": "Books",
-      "image": "/products/psychology.jpg",
-      "offer": "25% OFF",
-      "link": "https://amazon.com/"
-    },
+   
     {
       "id": 62,
       "title": "ASUS ROG Strix G15 Gaming Laptop (Intel i7, RTX 3060)",
@@ -60,17 +13,17 @@
       "offer": "11% OFF",
       "link": "https://flipkart.com/"
     },
-    {
-      "id": 10,
-      "title": "Apple MacBook Pro M3 14-inch (Space Gray, 512GB SSD)",
-      "price": 204900,
-      "originalPrice": 219900,
-      "rating": 4.6,
-      "platform": "Flipkart",
+     {
+      "id": 1,
+      "title": "Apple iPhone 15 Pro Max (256GB) - Natural Titanium",
+      "price": 134900,
+      "originalPrice": 159900,
+      "rating": 4.5,
+      "platform": "Amazon",
       "category": "Electronics",
-      "image": "/products/mac2.jpeg",
-      "offer": "7% OFF",
-      "link": "https://flipkart.com/"
+      "image": "/products/iphone1.jpeg",
+      "offer": "15% OFF",
+      "link": "https://amazon.com/"
     },
     {
       "id": 266,
@@ -192,6 +145,54 @@
       "offer": "14% OFF",
       "link": "https://flipkart.com/"
     },
+     {
+      "id": 149,
+      "title": "Woodland Men's Leather Casual Shoes (Brown, Size 8)",
+      "price": 6999,
+      "originalPrice": 9999,
+      "rating": 4.1,
+      "platform": "Amazon",
+      "category": "Fashion",
+      "image": "/products/woodland1.jpg",
+      "offer": "30% OFF",
+      "link": "https://amazon.com/"
+    },
+    {
+      "id": 33,
+      "title": "Bose QuietComfort Earbuds (black)",
+      "price": 19999,
+      "originalPrice": 24999,
+      "rating": 4.2,
+      "platform": "Amazon",
+      "category": "Electronics",
+      "image": "/products/bose-earbuds1.jpg",
+      "offer": "20% OFF",
+      "link": "https://amazon.com/"
+    },
+    {
+      "id": 78,
+      "title": "Nike Air Jordan 1 Retro High OG (Chicago, Size 10)",
+      "price": 13999,
+      "originalPrice": 15999,
+      "rating": 4.4,
+      "platform": "Flipkart",
+      "category": "Fashion",
+      "image": "/products/nike2.jpg",
+      "offer": "13% OFF",
+      "link": "https://flipkart.com/"
+    },
+    {
+      "id": 125,
+      "title": "The Psychology of Money by Morgan Housel (Paperback)",
+      "price": 299,
+      "originalPrice": 399,
+      "rating": 4.8,
+      "platform": "Amazon",
+      "category": "Books",
+      "image": "/products/psychology.jpg",
+      "offer": "25% OFF",
+      "link": "https://amazon.com/"
+    },
     {
       "id": 77,
       "title": "Nike Air Jordan 1 Retro High OG (Chicago, Size 10)",
@@ -312,18 +313,19 @@
       "offer": "6% OFF",
       "link": "https://meesho.com/"
     },
-    {
-      "id": 1,
-      "title": "Apple iPhone 15 Pro Max (256GB) - Natural Titanium",
-      "price": 134900,
-      "originalPrice": 159900,
-      "rating": 4.5,
-      "platform": "Amazon",
+     {
+      "id": 10,
+      "title": "Apple MacBook Pro M3 14-inch (Space Gray, 512GB SSD)",
+      "price": 204900,
+      "originalPrice": 219900,
+      "rating": 4.6,
+      "platform": "Flipkart",
       "category": "Electronics",
-      "image": "/products/iphone1.jpeg",
-      "offer": "15% OFF",
-      "link": "https://amazon.com/"
+      "image": "/products/mac2.jpeg",
+      "offer": "7% OFF",
+      "link": "https://flipkart.com/"
     },
+  
     {
       "id": 151,
       "title": "Woodland Men's Leather Casual Shoes (Brown, Size 8)",
