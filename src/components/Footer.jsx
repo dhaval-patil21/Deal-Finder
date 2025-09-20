@@ -41,9 +41,9 @@ export default function Footer() {
             <Link href="/products" className="text-gray-300 hover:text-orange-300 transition-colors duration-200">
               Products
             </Link>
-            <Link href="/about" className="text-gray-300 hover:text-orange-300 transition-colors duration-200">
+            {/* <Link href="/about" className="text-gray-300 hover:text-orange-300 transition-colors duration-200">
               About
-            </Link>
+            </Link> */}
             <Link href="/contact" className="text-gray-300 hover:text-orange-300 transition-colors duration-200">
               Contact
             </Link>
