@@ -2,6 +2,51 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+# Deal Finder🛍️ - Smart Price Comparison Website
+
+A modern, responsive web application built using **Next.js** and **Tailwind CSS**, designed to help users **compare products and prices across popular e-commerce platforms** such as Amazon, Flipkart, and Meesho — all in one place.
+
+> ⚡ This is a **frontend-only prototype** built using **mock data**. No real API or live data scraping is implemented yet.
+
+---
+
+## 🚀 Features
+
+- 🏠 **Home Page** – Clean hero section, popular categories, trending deals, and comparison preview  
+- 🗂️ **Category-based Product Listing** – Displays products dynamically using mock data (`/products/[category]`)  
+- 🔍 **Compare Products** – Compare up to **3 products side-by-side** (price, rating, offers, platform)  
+- ❤️ **Wishlist UI** – Add/remove favorite products (mock UI only)  
+- 📱 **Fully Responsive Design** – Built for desktop, tablet, and mobile users  
+- 🌗 **Modern UI/UX** – Clean layout with Tailwind CSS and intuitive navigation  
+
+---
+
+## 🧠 Purpose
+
+Online shoppers often open multiple tabs to compare the same product across different platforms.  
+This project solves that problem by **aggregating product information and allowing easy visual comparison**, saving time and improving decision-making.
+
+---
+
+## 🎯 Use Case
+
+- Compare products from multiple e-commerce websites  
+- View key product details like price, rating, and platform  
+- Quickly decide where to buy from without switching tabs  
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| Frontend | **Next.js** |
+| Styling | **Tailwind CSS** |
+| Data | Mock JSON data |
+
+
+
+
 First, run the development server:
 
 ```bash
